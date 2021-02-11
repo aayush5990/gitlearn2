@@ -1,6 +1,12 @@
 jddkkjdfksdbkds
 djksbkjdsdghgdhas
+<<<<<<< HEAD
 
 ashdgahsdgkasdaksjdhdhkjsdkasf
 
 this is ths change done in a2
+
+
+
+this is a changed file 
+
